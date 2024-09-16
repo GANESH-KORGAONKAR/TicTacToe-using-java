@@ -9,7 +9,8 @@ Welcome to the Tic-Tac-Toe game! This is a classic two-player game where players
 - [Requirements](#requirements)
 - [Setup and Installation](#setup-and-installation)
 - [How to Play](#how-to-play)
-- [Credits](#credits)
+- [Sample Output](#sample-output) 
+- [Acknowledgements](#acknowledgements)
 
 ## Game Description
 
@@ -49,8 +50,18 @@ Tic-Tac-Toe is a simple yet strategic game where two players compete to be the f
 3. Try to align three marks in a row to win.
 4. If the game ends in a draw or a win, press the restart button to play again.
 
-## Credits
+## Sample Output
+### Output Screenshot
 
-I watched a tutorial video on YouTube for this project on how to code and make this game. I coded the game by watching the tutorial and made some additional features suggested by the video creator. The name of the YouTube channel is Kenny Yip Coding.
+### 1]
+<img src="https://github.com/user-attachments/assets/18013402-5d37-4929-9ec4-e6d00985fa1d" alt="Tic-Tac-Toe Game OutPut 1" width="700" height="400" >
+
+### 2]
+<img src="https://github.com/user-attachments/assets/052b6e49-588d-4440-b9e1-66101b0413c7" alt="Tic-Tac-Toe Game OutPut 1" width="400" height="400" >
+
+## Acknowledgements
+
+- I watched a tutorial video on YouTube by Kenny Yip Coding, which guided me through the process of coding and making this game. I followed the tutorial and added some additional features suggested by the video creator.
+- I received valuable assistance in adding comments and refining the code from ChatGPT.
 
 ## Enjoy playing the Whac-A-Mole Game!
